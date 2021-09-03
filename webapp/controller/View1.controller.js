@@ -14,7 +14,7 @@ sap.ui.define([
 			},
 
             onBeforeRendering: function () {
-                window.message = "A random log message";
+                window.message = "Another random log message";
                 Log.info(window.message);
             },
             
