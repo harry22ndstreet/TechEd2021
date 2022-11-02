@@ -7,7 +7,7 @@
 	<Shell id="shell">
 		<App id="app">
 			<pages>
-				<MessagePage showHeader="false" description="Welcome to our session" text="SAP TechEd 2022" icon="sap-icon://hello-world"/>
+				<MessagePage showHeader="false" description="Welcome to our session" text="SAP TechEd 2022" icon="sap-icon://activate"/>
 			</pages>
 		</App>
 	</Shell>
