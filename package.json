@@ -33,7 +33,7 @@
         "@wdio/local-runner": "^7.31.1",
         "@wdio/mocha-framework": "^7.30.2",
         "@wdio/spec-reporter": "^7.31.1",
-        "chromedriver": "^112.0.0",
+        "chromedriver": "^108.0.0",
         "mbt": "^1.0.15",
         "rimraf": "3.0.2",
         "ui5-task-zipper": "^0.3.1",
