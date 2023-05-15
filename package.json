@@ -21,7 +21,7 @@
         "build:cf": "ui5 build preload --clean-dest --config ui5-deploy.yaml --include-task=generateManifestBundle generateCachebusterInfo",
         "build:mta": "rimraf resources mta_archives && mbt build --mtar archive",
         "undeploy": "cf undeploy sap-btp-sapui5 --delete-services --delete-service-keys",
-        "wdi5": "wdio run ./wdio.conf.js"
+        "wdi5": "ls && wdio run wdio.conf.js"
     },
     "devDependencies": {
         "@sap/ui5-builder-webide-extension": "1.0.x",
