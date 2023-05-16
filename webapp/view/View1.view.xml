@@ -7,7 +7,7 @@
 	<Shell id="shell">
 		<App id="app">
 			<pages>
-				<MessagePage showHeader="false" description="Herzlich Willkommen!" text="DSAG Technologietage 2023" icon="sap-icon://activate"/>
+				<MessagePage showHeader="false" description="Herzlich Willkommen!" text="DSAG Technologietage 2023" icon="sap-icon://home"/>
 			</pages>
 		</App>
 	</Shell>
