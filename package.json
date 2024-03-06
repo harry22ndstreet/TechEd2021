@@ -24,6 +24,7 @@
         "wdi5": "ls && wdio run wdio.conf.js"
     },
     "devDependencies": {
+<<<<<<< HEAD
         "@sap/ui5-builder-webide-extension": "1.0.x",
         "@sap/ux-ui5-tooling": "1",
         "@ui5/cli": "^2.11.1",
@@ -35,6 +36,12 @@
         "@wdio/spec-reporter": "^7.31.1",
         "chromedriver": "^108.0.0",
         "mbt": "^1.0.15",
+=======
+        "@ui5/cli": "2.12.1",
+        "@ui5/fs": "^2.0.6",
+        "@ui5/logger": "^2.0.1",
+        "@sap/ux-ui5-tooling": "1.3.2",
+>>>>>>> TechEdDemo
         "rimraf": "3.0.2",
         "ui5-task-zipper": "^0.3.1",
         "wdio-chromedriver-service": "^7.3.2",
