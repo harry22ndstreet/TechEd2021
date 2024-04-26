@@ -7,7 +7,7 @@
 	<Shell id="shell">
 		<App id="app">
 			<pages>
-				<MessagePage showHeader="false" description="Herzlich Willkommen!" text="VCI treffen" icon="sap-icon://ai"/>
+				<MessagePage showHeader="false" description="Welcome!" text="Show and Tell" icon="sap-icon://people-connected"/>
 			</pages>
 		</App>
 	</Shell>
