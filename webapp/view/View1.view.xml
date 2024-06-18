@@ -7,7 +7,7 @@
 	<Shell id="shell">
 		<App id="app">
 			<pages>
-				<MessagePage showHeader="false" description="Welcome!" text="Show and Tell" icon="sap-icon://people-connected"/>
+				<MessagePage showHeader="false" description="Welcome!" text="Show and Tell" icon="sap-icon://home"/>
 			</pages>
 		</App>
 	</Shell>
